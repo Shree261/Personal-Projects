@@ -1,10 +1,8 @@
 # Personal-Projects
 
-### Phishing URL Detection
-* Developed a Phishing URL Detection project utilizing machine learning techniques to automate the identification of potentially harmful URLs.
-* Collected a diverse dataset comprising both legitimate and phishing URLs as the basis for training and evaluation.
-* Engineered a feature extraction process to capture relevant characteristics from the URLs, including domain attributes, presence of suspicious keywords, and structural features.
-* Trained a classification model using the extracted features to effectively differentiate between legitimate and phishing URLs.
+### E-Commerce Sales Dashboard
+* Developed a comprehensive Ecommerce Sales Dashboard in Power BI to visualize key metrics such as total sales, revenue trends.
+* Integrated multiple data sources and utilized advanced DAX formulas for dynamic filtering, ensuring real-time insights and performance tracking.
 
 ### IMDB Movies Data Analysis
 * IMDB Movies Data Analysis is a comprehensive exploration of movie data sourced from the popular Internet Movie Database (IMDB).
